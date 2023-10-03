@@ -1,0 +1,1 @@
+export const SIDEBAR_FUNCTION = "SIDEBAR_FUNCTION";
